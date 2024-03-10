@@ -1,5 +1,7 @@
 # photo_organize
+
 python -m venv venv
+
 venv\Scripts\activate
 
 pip install -r requirements.txt
